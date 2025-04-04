@@ -10,5 +10,4 @@ Generates image from given text
 
 **Display & Download**: The image is rendered on the frontend and can be downloaded/shared.
 
-[Live Demo](https://huggingface.co/spaces/yourusername/multilingual-ai-art)  
 
