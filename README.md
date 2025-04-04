@@ -1,11 +1,14 @@
 # Text-to-Image
-Generates image from given text
-
-# 🌍 Multilingual Text-to-Image Generator  
-Generate AI images from **any language** (Hindi, Marathi, German, etc.) using Stable Diffusion.  
+Generates image from given text 
 
 ## How to Use  
-1. Enter a prompt (e.g., "एक सुंदर पर्वत").  
-2. The AI translates it to English and generates an image.  
+
+**User Input:** Enter a text prompt (e.g., "A cyberpunk city at night").
+**AI Processing:** The backend sends the prompt to the AI model (Stable Diffusion/DALL·E).
+
+**Image Generation**: The model generates a unique image in seconds.
+
+**Display & Download**: The image is rendered on the frontend and can be downloaded/shared.
 
 [Live Demo](https://huggingface.co/spaces/yourusername/multilingual-ai-art)  
+
